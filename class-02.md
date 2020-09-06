@@ -1,17 +1,17 @@
 # Reading
 ## HTML
 ### Text
-* Heading **<h1></h1>** : Main heading **<h2>**:Subheading
-* paragraphs **<p>**
-* Bold **<b>**
-* Italic **<i>**
-* Subscript **<sub>**
-* Line breaks **<br />**
-* Strong **<strong>**
-* Emphasis **<em>**
-* Author details **<address>**
+* Heading  : Main heading 
+* paragraphs 
+* Bold 
+* Italic
+* Subscript 
+* Line breaks 
+* Strong 
+* Emphasis 
+* Author details 
 
-##CSS
+## CSS
 ### Introducing CSS
 * **CSS Properties Affect How Elements Are Displayed**: CSS declarations sit inside curly brackets and each is made up of two
 parts: a property and a value, separated by a colon. You can specify
@@ -25,7 +25,7 @@ of those properties. For example, the font-family
 property sets the choice of font, and the value arial
 specifies Arial as the preferred typeface.
 
-##JavaScript
+## JavaScript
 ### Basic JavaScript Instructions
 * **Statment**: Each individual instruction or step is known as a statement.
 Statements should end with a semicolon. 
